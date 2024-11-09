@@ -40,7 +40,7 @@ The SMU FAQ Chatbot is designed to answer student inquiries by leveraging a data
 ```
 3. **Run the Chatbot:**
 
-Open the SMU_FAQ_Chatbot.ipynb notebook in Jupyter Notebook or JupyterLab and execute the cells to start the chatbot.
+Open the [SMU_FAQ_Chatbot.ipynb](https://github.com/toobajaved/smuAIChatBot/blob/main/chatbot.ipynb) notebook in Jupyter Notebook or JupyterLab and execute the cells to start the chatbot.
 
 ## Author
 
