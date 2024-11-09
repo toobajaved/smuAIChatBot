@@ -7,7 +7,7 @@ This project is an AI-powered chatbot designed to assist students by answering f
 This repository contains the following files:
 
 - `README.md` – Provides an overview of the project and usage instructions.
-- `SMU_FAQ_Chatbot.ipynb` – The main notebook that trains and runs the SMU FAQ Chatbot.
+- `chatbot.ipynb` – The main notebook that trains and runs the SMU FAQ Chatbot.
 - `LICENSE` – This project is licensed under the MIT License.
 
 ## Check Out the Dataset
@@ -27,15 +27,15 @@ The SMU FAQ Chatbot is designed to answer student inquiries by leveraging a data
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/tootooba/SMU-FAQ-Chatbot.git
-   cd SMU-FAQ-Chatbot
+   git clone https://github.com/tootooba/smuAIChatBot.git
+   cd smuAIChatBot
 
 2. **Install Required Libraries:**
 
   Ensure you have Python installed (preferably Python 3.8 or higher). Install the necessary packages  using pip:
   
    ```bash
-  pip install -r requirements.txt
+  pip install -r datasets torch transformers faiss-cpu
 
 ```
 3. **Run the Chatbot:**
@@ -44,7 +44,7 @@ Open the SMU_FAQ_Chatbot.ipynb notebook in Jupyter Notebook or JupyterLab and ex
 
 ## Author
 
-This project was developed by **Tooba Javed** as part of the ShiftKey Build program.
+This project was developed by **Tooba Javed**.
 
 ## License
 
